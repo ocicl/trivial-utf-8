@@ -2,8 +2,8 @@
 
 Minimal utf-8 decoding and encoding library.
 
-|---------+----------------------------------------------------|
-| source  | git:https://github.com/fukamachi/trivial-utf-8.git |
-| commit  | ba9b4ff                                            |
-| systems | trivial-utf-8                                      |
-|---------+----------------------------------------------------|
+|---------+----------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/trivial-utf-8/trivial-utf-8 |
+| commit  | 75e3072                                                        |
+| systems | trivial-utf-8                                                  |
+|---------+----------------------------------------------------------------|
