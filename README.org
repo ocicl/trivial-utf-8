@@ -4,6 +4,6 @@ Minimal utf-8 decoding and encoding library.
 
 |---------+----------------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/trivial-utf-8/trivial-utf-8 |
-| commit  | 75e3072                                                        |
+| commit  | 3c51f5b                                                        |
 | systems | trivial-utf-8                                                  |
 |---------+----------------------------------------------------------------|
