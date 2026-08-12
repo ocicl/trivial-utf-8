@@ -7,3 +7,4 @@ Minimal utf-8 decoding and encoding library.
 | commit  | 3c51f5b                                                        |
 | systems | trivial-utf-8                                                  |
 |---------+----------------------------------------------------------------|
+ 
